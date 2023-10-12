@@ -44,7 +44,8 @@ def process_resume(file_path):
 
 # Streamlit app
 def main():
-    st.title("Job Recommendation App")
+    st.title("Job Mailer")
+    st.subheader("A personalized Job Recommendation System")
     st.write("Upload your resume in PDF format")
 
     # File uploader
