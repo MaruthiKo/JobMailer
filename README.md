@@ -2,7 +2,7 @@
 
 Welcome to Job Mailer a personalized job recommendation system ! This project leverages a powerful combination of data scraping, cutting-edge machine learning techniques, a user-friendly Streamlit application, and seamless cloud deployment to offer you a state-of-the-art job recommendation experience.
 
-Are you tired of sifting through countless job listings, unsure if they're the right fit for you? Job Mailer is here to help you with your job search process, making it more efficient and personalized.
+Are you tired of shifting through countless job listings, unsure if they're the right fit for you? Job Mailer is here to help you with your job search process, making it more efficient and personalized.
 
 ## How it Works
 
